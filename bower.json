@@ -1,7 +1,7 @@
 {
   "name": "requirejs-hbs",
-  "version": "0.1.1",
-  "homepage": "https://github.com/epeli/requirejs-hbs",
+  "version": "0.1.2",
+  "homepage": "https://github.com/designeng/requirejs-hbs",
   "authors": [
     "Esa-Matti Suuronen <esa-matti@suuronen.org>"
   ],
